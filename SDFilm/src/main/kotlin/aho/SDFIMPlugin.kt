@@ -1,4 +1,4 @@
-package com.lagradost.cloudstream3.plugins
+package aho
 
 import android.content.Context
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
