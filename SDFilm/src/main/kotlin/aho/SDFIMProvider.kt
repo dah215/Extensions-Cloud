@@ -1,4 +1,4 @@
-package com.lagradost.cloudstream3.plugins
+package aho
 
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.ExtractorLink
